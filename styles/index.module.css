@@ -1,0 +1,429 @@
+.icon,
+.wordmarkIcon {
+  position: relative;
+  width: 48px;
+  height: 48px;
+  flex-shrink: 0;
+  display: none;
+}
+.wordmarkIcon {
+  width: 124px;
+}
+.compfestLogoDiv {
+  display: flex;
+  flex-direction: row;
+  padding: 0 12px 0 0;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0;
+}
+.cOMPFESTAllRightsReserved {
+  position: relative;
+  line-height: 150%;
+  font-weight: 500;
+  display: inline-block;
+}
+.frameDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.faceboookCircleIcon,
+.iconsBxlLinkedin {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.iconsBxlLinkedin {
+  overflow: hidden;
+}
+.frameDiv2 {
+  position: absolute;
+  height: 75%;
+  top: 12.5%;
+  right: 0;
+  bottom: 12.5%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.frameDiv1 {
+  flex: 1;
+  position: relative;
+  height: 32px;
+}
+.footerDiv1 {
+  position: absolute;
+  width: calc(100% + 2px);
+  right: -1px;
+  bottom: -1px;
+  left: -1px;
+  border-radius: 24px 24px 0 0;
+  background-color: #2d2f45;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  padding: 40px 112px;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0;
+}
+.jamJiwaB {
+  position: absolute;
+  top: 1px;
+  left: 75px;
+  line-height: 120%;
+  display: inline-block;
+}
+.rectangleDiv {
+  position: absolute;
+  top: -15px;
+  left: -11px;
+  background-color: #d9d9d9;
+  width: 86px;
+  height: 63px;
+}
+.logoJamJiwaDiv {
+  position: absolute;
+  top: 44px;
+  left: 105px;
+  width: 204px;
+  height: 40px;
+  font-size: 32px;
+  color: #d5d5da;
+  font-family: R-Flex;
+}
+.footerDiv {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 160px;
+  color: rgba(255, 255, 255, 0.8);
+}
+.bEST,
+.jawaTimurDictionaryToHelp,
+.theB {
+  position: absolute;
+  line-height: 120%;
+  display: inline-block;
+}
+.bEST {
+  top: 0;
+  left: 50px;
+  font-size: 120px;
+  font-family: R-Flex;
+  color: #50527a;
+}
+.jawaTimurDictionaryToHelp,
+.theB {
+  top: 48px;
+  left: 0;
+}
+.jawaTimurDictionaryToHelp {
+  left: 272px;
+}
+.textJumbotronDiv {
+  position: absolute;
+  top: 141px;
+  left: 247px;
+  width: 947px;
+  height: 144px;
+  text-align: center;
+  font-size: 40px;
+}
+.rectangleIcon {
+  position: relative;
+  border-radius: 16px;
+  width: 348px;
+  height: 234px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.fotoJumbotronDiv {
+  position: absolute;
+  top: 334px;
+  left: 154px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 44px;
+}
+.jamJiwaB1 {
+  top: 0;
+  left: 293px;
+  font-size: 120px;
+  line-height: 120%;
+  display: inline-block;
+  font-family: R-Flex;
+  color: #50527a;
+}
+.b,
+.groupIcon,
+.jamJiwaB1 {
+  position: absolute;
+}
+.groupIcon {
+  top: 746px;
+  left: 675px;
+  width: 343px;
+  height: 137px;
+  object-fit: cover;
+  display: none;
+}
+.b {
+  top: 48px;
+  left: 766px;
+  line-height: 120%;
+  display: inline-block;
+}
+.textJumbotronDiv1 {
+  position: absolute;
+  top: 742px;
+  left: 326px;
+  width: 789px;
+  height: 144px;
+  text-align: center;
+  font-size: 40px;
+}
+.scrollToHaveFun {
+  position: relative;
+  line-height: 150%;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 186px;
+}
+.chevronCompactDoubleDownIcon {
+  position: relative;
+  width: 48px;
+  height: 48px;
+  flex-shrink: 0;
+}
+.scrollDiv {
+  position: absolute;
+  bottom: 1005px;
+  left: calc(50% - 93px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0;
+  cursor: pointer;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.8);
+}
+.body14pt {
+  position: relative;
+  letter-spacing: -0.05em;
+  line-height: 24px;
+  font-weight: 600;
+  display: inline-block;
+}
+.buttonDiv {
+  position: absolute;
+  top: 1343px;
+  left: 627px;
+  border-radius: 12px;
+  background: linear-gradient(180deg, #5561ff, #3643fc, #3643fc);
+  width: 186px;
+  display: flex;
+  flex-direction: row;
+  padding: 12px 32px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.findCommonWords,
+.rectangleIcon3 {
+  position: absolute;
+  top: 0;
+  display: none;
+}
+.rectangleIcon3 {
+  left: 0;
+  border-radius: 16px;
+  width: 507px;
+  height: 341px;
+  object-fit: cover;
+}
+.findCommonWords {
+  left: 542px;
+  line-height: 120%;
+}
+.whenYouTravel {
+  font-weight: 500;
+}
+.blankLineP {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.jamJiwaB2 {
+  font-family: Inter;
+}
+.jamJiwaWillBeTheAnswerTo {
+  margin: 0;
+}
+.whenYouTravelToAPlaceIn {
+  position: absolute;
+  top: 89px;
+  left: 542px;
+  font-size: 24px;
+  line-height: 120%;
+  display: none;
+  width: 568px;
+  height: 221px;
+  font-family: Inter;
+}
+.cardDiv,
+.rectangleIcon4 {
+  position: absolute;
+  top: 0;
+  left: 4268px;
+  width: 0;
+  height: 0;
+}
+.rectangleIcon4 {
+  left: 0;
+  border-radius: 16px;
+  width: 507px;
+  height: 341px;
+  object-fit: cover;
+}
+.speakItLikeThem,
+.whenYouTravelToAPlaceIn2 {
+  position: absolute;
+  top: 0;
+  left: 542px;
+  line-height: 120%;
+  display: inline-block;
+}
+.whenYouTravelToAPlaceIn2 {
+  top: 89px;
+  font-size: 24px;
+  width: 568px;
+  height: 221px;
+  font-family: Inter;
+}
+.cardDiv1,
+.cardDiv2,
+.cardDiv3,
+.frameDiv3,
+.sliderDiv {
+  position: absolute;
+  top: 26px;
+  left: 2954px;
+  width: 1110px;
+  height: 341px;
+}
+.cardDiv2,
+.cardDiv3,
+.frameDiv3,
+.sliderDiv {
+  left: 1482px;
+}
+.cardDiv3,
+.frameDiv3,
+.sliderDiv {
+  left: 0;
+  width: 1118px;
+}
+.frameDiv3,
+.sliderDiv {
+  top: -26px;
+  width: 4268px;
+  height: 367px;
+}
+.frameDiv3 {
+  top: 944px;
+  left: 154px;
+  width: 1286px;
+  height: 341px;
+  overflow-x: auto;
+  font-size: 60px;
+  font-family: R-Flex;
+}
+.rectangleDiv1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #28293d;
+  width: 1440px;
+  height: 110px;
+}
+.logoJamJiwaDiv1 {
+  position: absolute;
+  top: 35px;
+  left: 112px;
+  width: 204px;
+  height: 40px;
+}
+.buttonDiv1 {
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.1);
+  width: 186px;
+  flex-shrink: 0;
+  padding: 12px 32px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.buttonDiv1,
+.buttonDiv3,
+.frameDiv4 {
+  display: flex;
+  flex-direction: row;
+}
+.buttonDiv3 {
+  border-radius: 12px;
+  background: linear-gradient(180deg, #5561ff, #3643fc, #3643fc);
+  width: 186px;
+  flex-shrink: 0;
+  padding: 12px 32px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.frameDiv4 {
+  position: absolute;
+  top: 31px;
+  left: 658px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 56px;
+  font-size: 16px;
+  color: #fff;
+  font-family: Inter;
+}
+.headerNavBarDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 110px;
+  font-size: 32px;
+  color: #d5d5da;
+  font-family: R-Flex;
+}
+.landingPageDiv {
+  position: relative;
+  background-color: #28293d;
+  width: 100%;
+  height: 1698px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 16px;
+  color: #fff;
+  font-family: Inter;
+}

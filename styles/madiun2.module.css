@@ -1,0 +1,330 @@
+.icon,
+.wordmarkIcon {
+  position: relative;
+  width: 48px;
+  height: 48px;
+  flex-shrink: 0;
+  display: none;
+}
+.wordmarkIcon {
+  width: 124px;
+}
+.compfestLogoDiv {
+  display: flex;
+  flex-direction: row;
+  padding: 0 12px 0 0;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0;
+}
+.cOMPFESTAllRightsReserved {
+  position: relative;
+  line-height: 150%;
+  font-weight: 500;
+  display: inline-block;
+}
+.frameDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.faceboookCircleIcon,
+.iconsBxlLinkedin {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.iconsBxlLinkedin {
+  overflow: hidden;
+}
+.frameDiv2 {
+  position: absolute;
+  height: 75%;
+  top: 12.5%;
+  right: 0;
+  bottom: 12.5%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.frameDiv1 {
+  flex: 1;
+  position: relative;
+  height: 32px;
+}
+.footerDiv1 {
+  position: absolute;
+  width: calc(100% + 2px);
+  right: -1px;
+  bottom: -1px;
+  left: -1px;
+  border-radius: 24px 24px 0 0;
+  background-color: #2d2f45;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  padding: 40px 112px;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0;
+}
+.jamJiwaB {
+  position: absolute;
+  top: 1px;
+  left: 75px;
+  line-height: 120%;
+  display: inline-block;
+}
+.rectangleDiv {
+  position: absolute;
+  top: -15px;
+  left: -11px;
+  background-color: #d9d9d9;
+  width: 86px;
+  height: 63px;
+}
+.logoJamJiwaDiv {
+  position: absolute;
+  top: 44px;
+  left: 105px;
+  width: 204px;
+  height: 40px;
+  font-size: 32px;
+  color: #d5d5da;
+  font-family: R-Flex;
+}
+.footerDiv {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 160px;
+}
+.madiunB,
+.welcomeToB {
+  position: absolute;
+  top: 0;
+  left: 217px;
+  line-height: 120%;
+  display: inline-block;
+}
+.welcomeToB {
+  top: 48px;
+  left: 0;
+  font-size: 40px;
+  font-family: Inter;
+  color: #fff;
+}
+.textJumbotronDiv {
+  position: absolute;
+  top: 141px;
+  left: 408px;
+  width: 624px;
+  height: 144px;
+  text-align: center;
+  font-size: 120px;
+  color: #50527a;
+  font-family: R-Flex;
+}
+.madiunIcon {
+  position: absolute;
+  top: 285px;
+  left: 359px;
+  width: 657px;
+  height: 610px;
+  object-fit: cover;
+}
+.rectangleDiv1 {
+  position: absolute;
+  top: -47px;
+  left: -58px;
+  background-color: rgba(0, 0, 0, 0.6);
+  width: 1553px;
+  height: 1452px;
+}
+.body14pt {
+  position: relative;
+  line-height: 24px;
+  font-weight: 600;
+  display: inline-block;
+}
+.expandMoreIcon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.verticalTabsvuesaxlinearPrDiv {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.dropdownParentDiv {
+  align-self: stretch;
+  border-radius: 8px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 16px 20px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 12px;
+  font-size: 20px;
+}
+.body14pt1 {
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+  font-weight: 600;
+  display: inline-block;
+}
+.dropdownChild1,
+.dropdownDiv {
+  border-radius: 8px;
+  overflow: hidden;
+  align-items: center;
+}
+.dropdownChild1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  padding: 16px 20px;
+  box-sizing: border-box;
+  justify-content: flex-start;
+}
+.dropdownDiv {
+  width: 859px;
+  height: 56px;
+  flex-shrink: 0;
+  gap: 0;
+  cursor: pointer;
+}
+.dropdownDiv,
+.dropdownDiv1,
+.modalDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.dropdownDiv1 {
+  border-radius: 8px;
+  width: 859px;
+  height: 56px;
+  flex-shrink: 0;
+  overflow: hidden;
+  align-items: center;
+  gap: 0;
+}
+.modalDiv {
+  position: absolute;
+  top: 538px;
+  left: 234px;
+  border-radius: 24px;
+  background-color: #28293d;
+  height: 815px;
+  padding: 69px 56px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 32px;
+  color: #fff;
+}
+.xIcon {
+  position: absolute;
+  top: calc(50% - 110px);
+  left: calc(50% + 518px);
+  width: 36px;
+  height: 36px;
+}
+.rectangleDiv2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #28293d;
+  width: 1440px;
+  height: 110px;
+}
+.logoJamJiwaDiv1 {
+  position: absolute;
+  top: 35px;
+  left: 112px;
+  width: 204px;
+  height: 40px;
+}
+.body14pt60 {
+  position: relative;
+  letter-spacing: -0.05em;
+  line-height: 24px;
+  font-weight: 600;
+  display: inline-block;
+}
+.buttonDiv {
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.1);
+  width: 186px;
+  flex-shrink: 0;
+  padding: 12px 32px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.buttonDiv,
+.buttonDiv2,
+.frameDiv3 {
+  display: flex;
+  flex-direction: row;
+}
+.buttonDiv2 {
+  border-radius: 12px;
+  background: linear-gradient(180deg, #5561ff, #3643fc, #3643fc);
+  width: 186px;
+  flex-shrink: 0;
+  padding: 12px 32px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.frameDiv3 {
+  position: absolute;
+  top: 31px;
+  left: 658px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 56px;
+  font-size: 16px;
+  color: #fff;
+  font-family: Inter;
+}
+.headerNavBarDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 110px;
+  font-size: 32px;
+  color: #d5d5da;
+  font-family: R-Flex;
+}
+.madiunDiv {
+  position: relative;
+  background-color: #28293d;
+  width: 100%;
+  height: 1328px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.8);
+  font-family: Inter;
+}

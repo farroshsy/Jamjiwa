@@ -1,0 +1,350 @@
+.icon,
+.wordmarkIcon {
+  position: relative;
+  width: 48px;
+  height: 48px;
+  flex-shrink: 0;
+  display: none;
+}
+.wordmarkIcon {
+  width: 124px;
+}
+.compfestLogoDiv {
+  display: flex;
+  flex-direction: row;
+  padding: 0 12px 0 0;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0;
+}
+.cOMPFESTAllRightsReserved {
+  position: relative;
+  line-height: 150%;
+  font-weight: 500;
+  display: inline-block;
+}
+.frameDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.faceboookCircleIcon,
+.iconsBxlLinkedin {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.iconsBxlLinkedin {
+  overflow: hidden;
+}
+.frameDiv2 {
+  position: absolute;
+  height: 75%;
+  top: 12.5%;
+  right: 0;
+  bottom: 12.5%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.frameDiv1 {
+  flex: 1;
+  position: relative;
+  height: 32px;
+}
+.footerDiv1 {
+  position: absolute;
+  width: calc(100% + 2px);
+  right: -1px;
+  bottom: -1px;
+  left: -1px;
+  border-radius: 24px 24px 0 0;
+  background-color: #2d2f45;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  padding: 40px 112px;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0;
+}
+.jamJiwaB {
+  position: absolute;
+  top: 1px;
+  left: 75px;
+  line-height: 120%;
+  display: inline-block;
+}
+.rectangleDiv {
+  position: absolute;
+  top: -15px;
+  left: -11px;
+  background-color: #d9d9d9;
+  width: 86px;
+  height: 63px;
+}
+.logoJamJiwaDiv {
+  position: absolute;
+  top: 44px;
+  left: 105px;
+  width: 204px;
+  height: 40px;
+  font-size: 32px;
+  color: #d5d5da;
+  font-family: R-Flex;
+}
+.footerDiv {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 160px;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.8);
+  font-family: Inter;
+}
+.areYouNow,
+.lOCATIONB,
+.whereB {
+  position: absolute;
+  line-height: 120%;
+  display: inline-block;
+}
+.lOCATIONB {
+  top: 0;
+  left: 96px;
+  font-size: 120px;
+  font-family: R-Flex;
+  color: #50527a;
+}
+.areYouNow,
+.whereB {
+  top: 48px;
+  left: 0;
+}
+.areYouNow {
+  left: 616px;
+}
+.textJumbotronDiv {
+  position: absolute;
+  top: 141px;
+  left: 276px;
+  width: 888px;
+  height: 144px;
+  text-align: center;
+  font-size: 40px;
+  font-family: Inter;
+}
+.malangIcon,
+.mapIcon {
+  position: absolute;
+  object-fit: cover;
+}
+.mapIcon {
+  top: 198px;
+  left: 123px;
+  width: 1194.63px;
+  height: 932px;
+  display: none;
+}
+.malangIcon {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.madiunIcon,
+.malangDiv {
+  position: absolute;
+  top: 611px;
+  left: 470px;
+  width: 434px;
+  height: 333px;
+}
+.madiunIcon {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  cursor: pointer;
+}
+.madiunDiv,
+.surabayaDiv {
+  position: absolute;
+  top: 537px;
+  left: 123px;
+  width: 415px;
+  height: 385px;
+}
+.surabayaDiv {
+  top: 410px;
+  left: 349px;
+  width: 440px;
+  height: 276px;
+}
+.banyuwangiDiv,
+.maduraDiv {
+  position: absolute;
+  top: 646px;
+  left: 745px;
+  width: 573px;
+  height: 413px;
+}
+.maduraDiv {
+  top: 416px;
+  left: 708px;
+  width: 610px;
+  height: 195px;
+}
+.body14pt,
+.headingsH4 {
+  align-self: stretch;
+  position: relative;
+  line-height: 120%;
+  display: inline-block;
+}
+.body14pt {
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 500;
+  font-family: Inter;
+  color: rgba(255, 255, 255, 0.8);
+}
+.textSectionDiv {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.cardDiv,
+.cardDiv1,
+.cardSectionDiv {
+  border-radius: 24px;
+  display: flex;
+  flex-direction: column;
+}
+.cardSectionDiv {
+  align-self: stretch;
+  background-color: #3e405b;
+  padding: 24px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.cardDiv,
+.cardDiv1 {
+  position: absolute;
+  top: 518px;
+  left: 966px;
+  background-color: #373951;
+  width: 300px;
+  overflow: hidden;
+  align-items: center;
+  justify-content: flex-end;
+}
+.cardDiv1 {
+  top: 849px;
+  left: 187px;
+}
+.rectangleDiv1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #28293d;
+  width: 1440px;
+  height: 110px;
+}
+.logoJamJiwaDiv1 {
+  position: absolute;
+  top: 35px;
+  left: 112px;
+  width: 204px;
+  height: 40px;
+  cursor: pointer;
+}
+.body14pt2 {
+  position: relative;
+  letter-spacing: -0.05em;
+  line-height: 24px;
+  font-weight: 600;
+  display: inline-block;
+}
+.buttonDiv {
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.1);
+  width: 186px;
+  flex-shrink: 0;
+  padding: 12px 32px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.buttonDiv,
+.buttonDiv2,
+.frameDiv3 {
+  display: flex;
+  flex-direction: row;
+}
+.buttonDiv2 {
+  border-radius: 12px;
+  background: linear-gradient(180deg, #5561ff, #3643fc, #3643fc);
+  width: 186px;
+  flex-shrink: 0;
+  padding: 12px 32px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.frameDiv3 {
+  position: absolute;
+  top: 31px;
+  left: 658px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 56px;
+  font-size: 16px;
+  color: #fff;
+  font-family: Inter;
+}
+.headerNavBarDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 110px;
+  font-size: 32px;
+  color: #d5d5da;
+}
+.explorePageDiv {
+  position: relative;
+  background-color: #28293d;
+  width: 100%;
+  height: 1328px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 24px;
+  color: #fff;
+  font-family: R-Flex;
+}
